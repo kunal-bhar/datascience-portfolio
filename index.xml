@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Kunal Bhargava</title>
+    <link>https://kunal-bhar.github.io/datascience-portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Kunal Bhargava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://kunal-bhar.github.io/datascience-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HouseBot: Medical Characterization Bot</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 06 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/post/chapter-2/</guid>
+      <description>Working on it!
+This project is on due course of upgrade. Updated description to be released soon.
+The model is deployed on HuggingFace and can be viewed here.</description>
+    </item>
+    
+    <item>
+      <title>probplotlib: A Python Library</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 28 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/post/chapter-1/</guid>
+      <description>Probplotlib is a lightweight package that facilitates direct operations on Probability Distributions using interactive graphs.
+It is compatible with both - internal and external datasets as it directly initializes the values into a distribution instance. The backbone uses Dunder methods for optimization therefore making it faster than NumPy alternatives on processing benchmarks by 13%. It is available for public use at the Python Package Index as a library installation.
+This article comprehends my inspiration behind the project, the induced functionality and set of demonstrated examples!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/contact/</guid>
+      <description>Reach my inbox directly by filling in the form below. Suggestions and feedback are most welcome!
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>

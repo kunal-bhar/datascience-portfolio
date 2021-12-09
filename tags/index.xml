@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kunal Bhargava</title>
+    <link>https://kunal-bhar.github.io/datascience-portfolio/tags/</link>
+    <description>Recent content in Tags on Kunal Bhargava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://kunal-bhar.github.io/datascience-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chatbot</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/chatbot/</link>
+      <pubDate>Sat, 06 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medical</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/medical/</link>
+      <pubDate>Sat, 06 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/nlp/</link>
+      <pubDate>Sat, 06 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/python/</link>
+      <pubDate>Sat, 06 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/data/</link>
+      <pubDate>Thu, 28 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maths</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/maths/</link>
+      <pubDate>Thu, 28 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualisation</title>
+      <link>https://kunal-bhar.github.io/datascience-portfolio/tags/visualisation/</link>
+      <pubDate>Thu, 28 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kunal-bhar.github.io/datascience-portfolio/tags/visualisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
